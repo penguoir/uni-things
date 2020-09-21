@@ -28,8 +28,7 @@ harmonic motion using Python. My role in our small team was to program
 an algorithm which analysed videos of a pendulum swinging to find the
 vector from the starting point. This enabled us to calculate exactly how
 much the pendulum swings, in order to calculate dampening. Finding that
-the algorithm was effective was highly rewarding and led to us reaching
-second place.
+the algorithm was effective was highly rewarding.
 
 I have learnt so much about Computer Science by engaging with these
 projects that I delivered a TEDx talk on Project-Based Learning (PBL) and

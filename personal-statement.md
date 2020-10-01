@@ -6,9 +6,9 @@ I created a beta website for ExpressTrack, a package tracking company. I wrote
 scrapers which took data from couriers’ websites, such as FedEx and UPS, and
 displayed the information clearly for the user. I created a test suite to make
 sure my new updates would not break old ones, especially as the volume of
-traffic was over 250 000 requests a year. Buoyed by the google rankings increase
-and the satisfaction derived from this project, I have decided to pursue a
-degree in Computer Science.
+traffic was over 250 000 requests a year. Exalted by the google rankings
+increase and the satisfaction derived from this project, I have decided to
+pursue a degree in Computer Science.
 
 My experience at ExpressTrack helped me secure a place at Summer School at the
 Weizmann Institute of Science in July 2019. I worked on a research project which
@@ -30,7 +30,7 @@ effective was highly rewarding.
 
 I find that I learned well by engaging with practical projects, so much so that
 I delivered a TEDx talk on Project-Based Learning (PBL) and how schools can use
-it to teach more effectively (see https://orimarash.com/ted). I have been a
+it to teach more effectively (see https://orimarash.com/ted.html). I have been a
 tutor for web development and Computer Science A-level using the PBL method. For
 my Computer Science A-level coursework, I am designing and building a Learning
 Management System built for PBL. I have interviewed potential users (students,
@@ -43,18 +43,20 @@ the knowledge I gained from reading "Discrete Mathematics" by R. Johnsonbaugh to
 solve a few of the British Informatics Olympiad questions. I completed Grow with
 Google’s "Machine Learning Crash Course" which gave me practical knowledge of
 machine learning. I have an interest in cybersecurity and attended an online
-lecture about Cloud Security Strategies at AWS. I was struck by the depth
+lecture about cloud security strategies at AWS. I was struck by the depth
 required to safeguard security, from every processor to the entire organisation.
 I have learned more about cybersecurity and privacy by listening to a Strachey
 lecture.
 
 Using the connections and resources offered by HackClub, an online community
-providing tools and contacts, I co-founded my school’s HackClub where we teach
-students how to code through working on projects once a week. I am currently
-working on a website which teaches programming online. The goal is to have a
-platform which helps students learn how to code through doing, rather than
-theory. Outside of computing, I enjoy cooking Italian cuisine, I play electric
-bass and attained a distinction in Grade 8 piano.
+providing tools and contacts (including a founders-only meeting with Elon Musk),
+I co-founded my school’s HackClub where we teach students how to code through
+working on projects once a week. I am currently working on a website which
+teaches programming online. The goal is to have a platform which helps students
+learn how to code through doing, rather than theory.
+
+Outside of computing, I enjoy cooking Italian cuisine and playing chess. Also, I
+play electric bass and have attained a distinction in Grade 8 piano.
 
 I am an enthusiastic Computer Scientist and look forward to being able to build
 ever more exciting programs as my knowledge grows.

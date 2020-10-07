@@ -14,6 +14,9 @@ These aren't in the personal statment, so might need a bit of explanation.
   * School six
   * Sixth form teaching day picker
   * Yearbook
+  * Critical thinking
+  * DT Project - mainly electronics
+  * STEP preparation programme
 
 Some metion
 -----------
